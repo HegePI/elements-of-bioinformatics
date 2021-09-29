@@ -1,0 +1,20 @@
+{
+  "folders": [
+    {
+      "name": "root",
+      "path": "."
+    },
+    {
+      "name": "assignement 1",
+      "path": "./assignements/assignement_1"
+    },
+    {
+      "name": "assignement 2",
+      "path": "./assignements/assignement_2"
+    },
+    {
+      "name": "summaries",
+      "path": "./summaries"
+    }
+  ]
+}
