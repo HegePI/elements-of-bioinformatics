@@ -32,5 +32,8 @@
       "name": "summaries",
       "path": "./summaries"
     }
-  ]
+  ],
+  "settings": {
+    "jupyter.jupyterServerType": "local"
+  }
 }
