@@ -13,6 +13,22 @@
       "path": "./assignements/assignement_2"
     },
     {
+      "name": "assignement 3",
+      "path": "./assignements/assignement_3"
+    },
+    {
+      "name": "assignement 2.2",
+      "path": "./assignements/assignement_2_2"
+    },
+    {
+      "name": "assignement 2.3",
+      "path": "./assignements/assignement_2_3"
+    },
+    {
+      "name": "assignement 2.4",
+      "path": "./assignements/assignement_2_4"
+    },
+    {
       "name": "summaries",
       "path": "./summaries"
     }
